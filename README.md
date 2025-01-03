@@ -87,5 +87,7 @@ Your summary statistics should include:
 2. Plot the linear regression model on top of the previous scatter plot.
 
 ## Resources
-
-1. 
+1. YouTube – handling duplicate data
+3. Redeat Bekele
+4. Generative AI – agg method and box plot outlier color
+5. Stack Overflow – sorting values
