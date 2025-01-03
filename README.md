@@ -14,7 +14,7 @@ This assignment is broken down into the following tasks:
 
 1. Prepare the data.
 
-2 Generate summary statistics.
+2. Generate summary statistics.
 
 3. Create bar charts and pie charts.
 
