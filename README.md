@@ -1,6 +1,6 @@
 # Module_5_Challenge
 
-### Background
+## Background
 
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -46,7 +46,6 @@ Your summary statistics should include:
 
 
 #### Create Bar Charts and Pie Charts
-
 1. Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 
 -----Create the first bar chart with the Pandas DataFrame.plot() method.
@@ -61,7 +60,6 @@ Your summary statistics should include:
 
 
 #### Calculate Quartiles, Find Outliers, and Create a Box Plot
-
 1. Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens. Use the following substeps:
 
 -----Create a grouped DataFrame that shows the last (greatest) time point for each mouse. Merge this grouped DataFrame with the original cleaned DataFrame.
@@ -78,7 +76,6 @@ Your summary statistics should include:
 
 
 #### Create a Line Plot and a Scatter Plot
-
 1. Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 
 2. Generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
@@ -88,3 +85,7 @@ Your summary statistics should include:
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 
 2. Plot the linear regression model on top of the previous scatter plot.
+
+## Resources
+
+1. 
